@@ -3,6 +3,26 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/nuxtjs"><img src="static\deploy-on-elestio.png" alt="Deploy on elest.io" width="180px" /></a>
 
+
+# NuxtJs!
+
+This is a very basic example of a simple NuxtJs app.
+
+
+Clone this [elestio-examples/nuxtjs](https://github.com/elestio-examples/nuxtjs) 
+
+```
+git clone https://github.com/elestio-examples/nuxtjs.git
+```
+Change into project directory.
+
+```
+npm install
+npm run start
+```
+
+This starts your app in development mode, make the changes and push.
+
 Example application and CI/CD pipeline showing how to deploy a NuxtJs website to elestio.
 
 <img src="static\nuxtjs.png" alt="screenshot of the Nuxtjs app" width="100%" />
