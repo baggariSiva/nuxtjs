@@ -1,6 +1,6 @@
-# NuxtJs on Elestio
+# Nuxt.js on Elestio
 
-This is a minimal example of a NuxtJs site created using create-nuxt-app
+This is a minimal example of a Nuxt.js site created using create-nuxt-app
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
