@@ -31,7 +31,7 @@ npm install
 ### Step 4: Run your app in dev mode
 
 ```
-npm run start
+npm run dev
 ```
 
 ### Step 5: Make some changes and push
